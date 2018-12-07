@@ -6,5 +6,6 @@
 5. learn how to build (brian)
 6. IntelliJ?
 7. become more structured in how we complete a program
-8. fight a bear
-9. idk
+8. consistent wednesday meetings for mill valley people
+9. fight a bear
+10. idk
