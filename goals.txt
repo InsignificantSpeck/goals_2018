@@ -1,9 +1,10 @@
 ---GOALS---
 1. begin a programming renaissance
-2. attendance program
-3. teach new programmers while getting work done
-4. learn how to build (brian)
-5. IntelliJ?
-6. become more structured in how we complete a program
-7. fight a bear
-8. idk
+2. fix the autogenerator
+3. attendance program
+4. teach new programmers while getting work done
+5. learn how to build (brian)
+6. IntelliJ?
+7. become more structured in how we complete a program
+8. fight a bear
+9. idk
